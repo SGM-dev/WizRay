@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on implementing AWS solutions and integrating cloud for my organisation.
+- 🌱 I’m currently learning FullStackOpen @fullstack-hy2020 and AWS Cloud Practitioner Certification
+
 <!--
 **WizRay/WizRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![@wizray's Holopin board](https://holopin.me/wizray)](https://holopin.io/@wizray)
