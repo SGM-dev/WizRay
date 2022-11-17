@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on implementing AWS solutions and integrating cloud for my organisation.
-- 🌱 I’m currently learning FullStackOpen @fullstack-hy2020 and AWS Cloud Practitioner Certification
+- 🌱 I’m currently learning FullStackOpen @fullstack-hy2020 and AWS & GCP Certifications.
 
 <!--
 **WizRay/WizRay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
